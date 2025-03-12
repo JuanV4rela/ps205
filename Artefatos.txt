@@ -1,0 +1,14 @@
+                   Registro de Mudanças - ITIL  
+Versão: 1.0  
+Autor: Juan  
+Data: 10/03/2025
+Data da última modificação: 10/03/2025
+
+Descrição:  
+Este documento registra mudanças realizadas no sistema, garantindo rastreabilidade e conformidade com as boas práticas do ITIL.  
+
+Política de Gestão de Mudanças:  
+1. Toda mudança deve ser registrada neste documento antes de ser aplicada no ambiente de produção.  
+2 Mudanças críticas devem ser aprovadas pelo Comitê de Mudanças (CAB).  
+2. As mudanças devem ser testadas antes da implementação final.  
+3. Deve haver um plano de rollback caso a mudança cause impactos negativos.
